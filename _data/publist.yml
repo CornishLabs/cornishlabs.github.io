@@ -15,10 +15,10 @@
   highlight: 0
   lab: microscope
 
-- title: "Harnessing resonant dipolar interactions in a hybrid atom-molecule quantum system"
+- title: "A coherent quantum interface between a neutral atom and a polar molecule"
   image: resonant_atom_molecule.png
   authors: Daniel K. Ruttley, Tom R. Hepworth, Juan M. García-Garrido, Caleb J. H. Rich, Rosario González-Férez, Alexander Guttridge, Simon L. Cornish
-  description: We demonstrate coherent dipolar interactions between an individual Rydberg atom and an individual polar molecule and exploit these interactions in a hybrid quantum system.
+  description: We engineer a coherent quantum interface between an individual Rydberg atom and an individual polar molecule using resonant dipolar interactions.
   link:
     url: https://arxiv.org/abs/2607.15976
     display: arXiv:2607.15976 (2026)
