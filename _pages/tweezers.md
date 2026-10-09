@@ -29,21 +29,21 @@ permalink: /tweezers
             </div>
         </div>
         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/tweezerpic/light_alignment.jpg" alt="Tom, Dan, and Caleb aligning some laser beams." />
+            <div class="carousel-caption bg-dark mb-4 text-light">
+            <p>Some light alignment.</p>
+            </div>
+        </div>
+          <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/tweezerpic/vacuum_chamber.jpg" alt="Some of the team, looking for some atoms." />
+            <div class="carousel-caption bg-dark mb-4 text-light">
+            <p>Some of the team, looking for some atoms.</p>
+            </div>
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/tweezerpic/420nm_light_cropped.jpg" alt="420nm Rydberg light" />
             <div class="carousel-caption bg-dark mb-4 text-light">
             <p>420 nm laser light used to excite Rb atoms to energetic Rydberg states.</p>
-            </div>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/stefan_viva.jpg" alt="Stefan viva" />
-            <div class="carousel-caption bg-dark mb-4 text-light">
-            <p>Congratulations to Dr. Stefan Spence of the Tweezer lab for a successful viva defence!</p>
-            </div>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/tweezerpic/laser_table_cropped.jpg" alt="Laser table" />
-            <div class="carousel-caption bg-dark mb-4 text-light">
-            <p>Some of the lasers used from trapping and control of Rb and Cs atoms in our lab.</p>
             </div>
         </div>
     </div>
