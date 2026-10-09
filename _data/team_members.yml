@@ -64,12 +64,6 @@
   role: Postdoctoral Research Associate
   lab: microscope
 
-- name: Carlos Bracamontes
-  photo: bracamontes.jpg
-  role: Postdoctoral Research Associate
-  email: carlos.bracamontes@durham.ac.uk
-  lab: tweezers
-
 - name: Navraj Poudel
   photo: poudel.jpg
   role: Postdoctoral Research Associate
@@ -80,10 +74,9 @@
   role: Postdoctoral Research Associate
   lab: rbcs
 
-- name: Albert Tao
-  photo: tao.jpg
-  role: PhD student
-  links: "[ORCID](https://orcid.org/0009-0008-5303-2715)"
+- name: Yuanlei He
+  photo: he.jpg
+  role: Research Assistant
   lab: rbcs
 
 - name: Joe Bloomer
@@ -119,6 +112,7 @@
 - name: Ce Li
   photo: li.jpg
   role: PhD student
+  lab: csyb
 
 - name: Rob Mellor
   photo: mellor.jpg
@@ -130,12 +124,38 @@
   role: PhD student
   lab: molecularbec
 
+- name: Anna Sheehan
+  photo: sheehan.jpg
+  role: PhD student
+  lab: tweezers
+
+- name: Andries Verhaeghe
+  photo: verhaeghe.jpg
+  role: PhD student
+  lab: tweezers
+
+- name: Anurag Solanki
+  photo: solanki.jpg
+  role: PhD student
+  lab: tweezers
+
+- name: Malwina Rosak
+  role: PhD student
+  lab: molecularbec
+
+- name: Lou Pickering
+  role: PhD student
+  lab: csyb
+
+- name: Matthew Simpson
+  role: PhD student
+  lab: microscope
+
 - name: Ikenna Eze
   photo: eze.jpg
+  role: PhD student
+  lab: molecularbec
+
+- name: Hannah McGahan 
   role: Masters by Research student
   lab: molecularbec
-  
-- name: Lena Klar
-  photo: klar.jpg
-  role: Masters by Research student
-  lab: microscope

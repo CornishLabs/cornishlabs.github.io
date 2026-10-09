@@ -1,3 +1,8 @@
+- name: Albert Tao
+  role: PhD student
+  lab: rbcs
+  years: 2022 - 2026
+
 - name: Adarsh Raghuram
   photo: 
   role: PhD student
@@ -264,6 +269,12 @@
   thesis_title: Realisation of a cold mixture of rubidium and caesium
   thesis_year: 2008
   thesis_lab: rbcs
+
+- name: Carlos Bracamontes
+  photo: segal.jpg
+  role: Postdoctoral research associate
+  lab: tweezers
+  years: 2025 - 2026
 
 - name: Sujit Garain
   lab: rbcs
