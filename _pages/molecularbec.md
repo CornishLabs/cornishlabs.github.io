@@ -10,6 +10,8 @@ permalink: /molecularbec
 
 Test
 
+Molecular BEC loading...
+
 <!-- ### Lab publications
 #### Papers
 {% assign molecularbec_papers = site.data.publist | where:"lab", "molecularbec" %}
