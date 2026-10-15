@@ -8,7 +8,7 @@ permalink: /molecularbec
 
 # Molecular BEC
 
-In the Molecular BEC experiment, we aim to create and study quantum degenerate gases of NaCs molecules. Building on the group's expertise in ultracold molecules, this experiment combines precision laser cooling, molecule formation, and quantum control to explore a new regime of strongly interacting quantum matter.
+Test
 
 <!-- ### Lab publications
 #### Papers
