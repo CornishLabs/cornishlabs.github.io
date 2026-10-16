@@ -8,9 +8,72 @@ permalink: /molecularbec
 
 # Molecular BEC
 
-Test
-
 Molecular BEC loading...
+
+## Motivation
+
+Ultracold molecules...
+
+Quantum simulation of strongly correlated matter...
+
+Nice pictures here of cool physics to be done -> triangular lattices (QSLs), etc
+
+Bulk and lattice physics
+
+## Methodology
+
+Laser cooling of Na and Cs. \
+Magnetic and optical trapping of Na and Cs.\
+Evaporative cooling to BEC. \
+Magnetoassocation for forming weakly-bound molecules. \
+STIRAP to ground state. \
+Microwave shielding for evaporative cooling. \
+BEC!
+
+Pictures from photoshoot here + pictures of MOTs?
+
+## Vacuum System
+
+Our experiments need to be isolated from the environment...
+
+Picture here
+
+## Coils
+
+Various magnetic fields are required for trapping and forming molecules.
+
+CAD picture here? Since actual photo probably won't look that nice...
+
+## Quantum Gas Microscopy
+
+Quantum gas microscopy... Single-site resolved imaging.
+
+Requires high numerical (NA) aperture objective.
+
+CAD/physical picture here?
+
+## Theses
+
+Ikenne Eze: ...
+
+## Team Members
+
+Group picture here?
+
+Join us! Simon's email here...
+
+## Lab Publications
+
+Coming soon!
+
+## Collaborations
+
+QSMol
+
+Link to website...
+
+Aim of collaboration
+
 
 <!-- ### Lab publications
 #### Papers
