@@ -10,7 +10,9 @@ permalink: /molecularbec
 
 Molecular BEC loading...
 
-## Motivation
+## Motivation (Chris)
+
+_WIP_
 
 Ultracold molecules...
 
@@ -20,7 +22,9 @@ Nice pictures here of cool physics to be done -> triangular lattices (QSLs), etc
 
 Bulk and lattice physics
 
-## Methodology
+## Methodology (Niamh)
+
+_WIP_
 
 Laser cooling of Na and Cs. \
 Magnetic and optical trapping of Na and Cs.\
@@ -34,46 +38,52 @@ Pictures from photoshoot here + pictures of MOTs?
 
 ## Vacuum System
 
+_WIP_
+
 Our experiments need to be isolated from the environment...
 
-Picture here
+[Picture]
 
 ## Coils
 
+_WIP_
+
 Various magnetic fields are required for trapping and forming molecules.
 
-CAD picture here? Since actual photo probably won't look that nice...
+[Picture]
 
 ## Quantum Gas Microscopy
 
-Quantum gas microscopy... Single-site resolved imaging.
+_WIP_
+
+Quantum gas microscopy -> Single-site resolved imaging.
 
 Requires high numerical (NA) aperture objective.
 
-CAD/physical picture here?
+[Picture]
 
 ## Theses
 
-Ikenne Eze: ...
+_WIP_
+
+Ikenne Eze: Title [link]
 
 ## Team Members
 
-Group picture here?
+_WIP_
 
-Join us! Simon's email here...
+[Group picture]
 
+Join us! Please see [Join us]({{ site.url }}{{ site.baseurl }}/join-us) for current openings or contact [Prof. Simon L. Cornish](mailto:s.l.cornish@durham.ac.uk).
 ## Lab Publications
 
 Coming soon!
 
 ## Collaborations
 
-QSMol
+We are part of the QSMol consortium. The aim of this project is to explore the emergent phenomena that arises when using ultracold polar molecules as a platform for simulating strongly-correlated quantum systems.
 
-Link to website...
-
-Aim of collaboration
-
+Link to website: [https://www.qsmol.uk/](https://www.qsmol.uk/)
 
 <!-- ### Lab publications
 #### Papers
