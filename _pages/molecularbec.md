@@ -8,9 +8,10 @@ permalink: /molecularbec
 
 # Molecular BEC
 
-Molecular BEC loading...
+Molecular BEC loading... \
+This webpage is currently under construction, so please bear with us!
 
-## Motivation (Chris)
+## Motivation
 
 _WIP_
 
@@ -22,7 +23,7 @@ Nice pictures here of cool physics to be done -> triangular lattices (QSLs), etc
 
 Bulk and lattice physics
 
-## Methodology (Niamh)
+## Methodology
 
 _WIP_
 
@@ -74,7 +75,7 @@ _WIP_
 
 [Group picture]
 
-Join us! Please see [Join us]({{ site.url }}{{ site.baseurl }}/join-us) for current openings or contact [Prof. Simon L. Cornish](mailto:s.l.cornish@durham.ac.uk).
+Please see [Join us!]({{ site.url }}{{ site.baseurl }}/join-us) for current openings or contact [Prof. Simon L. Cornish](mailto:s.l.cornish@durham.ac.uk).
 ## Lab Publications
 
 Coming soon!
