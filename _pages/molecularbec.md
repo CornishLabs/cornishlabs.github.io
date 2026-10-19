@@ -12,7 +12,20 @@ We are building a new apparatus to produce NaCs molecular Bose-Einstein condensa
 
 More details are coming soon, but in the meantime, here are some pictures of the apparatus and the team at work in the lab.
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover" >
+<style>
+#carousel {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#carousel .item img {
+    width: 100%;
+    height: auto;
+}
+</style>
+
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="8000" data-pause="hover">
+
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -21,27 +34,35 @@ More details are coming soon, but in the meantime, here are some pictures of the
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
+
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/nacspic/Chris_CsAOM1.jpeg" alt="Cs AOM System" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/nacspic/Chris_CsAOM1.jpeg"
+                 alt="Cs AOM System" />
             <div class="carousel-caption mb-4 text-light">
-            <p>Chris (PhD) aligning part of the laser system that will be used to laser cool Caesium atoms.</p>
+                <p>Chris (PhD) aligning part of the laser system that will be used to laser cool Caesium atoms.</p>
             </div>
         </div>
+
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/nacspic/Niamh_NaLocking1.jpeg" alt="Locking the vexlum." />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/nacspic/Niamh_NaLocking11.jpg"
+                 alt="Locking the vexlum." />
             <div class="carousel-caption bg-dark mb-4 text-light">
-            <p>Niamh (PhD) testing a frequency modulation spectroscopy (FMS) setup for our Sodium laser.</p>
+                <p>Niamh (PhD) testing a frequency modulation spectroscopy (FMS) setup for our Sodium laser.</p>
             </div>
         </div>
+
     </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+
+    <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+    </a>
+
+    <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+    </a>
+
 </div>
 
 ## Team Members
