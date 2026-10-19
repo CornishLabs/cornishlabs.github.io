@@ -44,7 +44,7 @@ More details are coming soon, but in the meantime, here are some pictures of the
         </div>
 
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/nacspic/Niamh_NaLocking11.jpeg"
+            <img src="{{ site.url }}{{ site.baseurl }}/images/nacspic/Niamh_NaLocking1.jpeg"
                  alt="Locking the vexlum." />
             <div class="carousel-caption bg-dark mb-4 text-light">
                 <p>Niamh (PhD) testing a frequency modulation spectroscopy (FMS) setup for our Sodium laser.</p>
