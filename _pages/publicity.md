@@ -8,6 +8,7 @@ permalink: /publicity
 
 Our research has been featured by multiple media outlets. Some recent highlights are:
 
+- [Professor Simon Cornish elected Fellow of the American Physical Society](https://www.durham.ac.uk/news-events/latest-news/2026/10/professor-simon-cornish-elected-fellow-of-the-american-physical-society/)
 - [Dr Daniel Ruttley awarded the Entanglement Prize at the Quantum Talents Symposium in Munich](https://www.munich-quantum-valley.de/news-events/detail/quantum-talents-symposium-2025/)
 - *Northern Echo*: [Durham University praised by European Research Council](https://www.thenorthernecho.co.uk/news/25263329.durham-university-praised-european-research-council/)
 - [‘World-class’ research showcased during Europe-wide summit](https://www.durham.ac.uk/news-events/latest-news/2025/06/european-research-council-scientific-council-visit/)
