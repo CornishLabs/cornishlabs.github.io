@@ -85,9 +85,11 @@
 - path: csybpic/CsYb_team_Oct_2023.jpg
   caption: "The CsYb experiment team in October 2023. L-R: Joe (PhD student), Tobias (PDRA), Jack (PDRA), and Simon (PI)."
   title: The CsYb team
+  
 - path: csybpic/CsYb_lab_setup.jpg
-  caption: "The CsYb experimental upgrade: Ultracold ytterbium atoms have been successfully transported into the glass cell from science chamber using a moving optical transport lattice."
+  caption: "The CsYb experimental upgrade: Ultracold ytterbium atoms have been successfully transported from the science chamber into the glass cell using a moving optical lattice."
   title: "The CsYb experimental upgrade"
-  path: csybpic/Main_table.jpg
+
+- path: csybpic/Main_table.jpg
   caption: "Aligning laser beams"
-  title: "The CsYb Main experiment"
+  title: "The CsYb main experiment"
