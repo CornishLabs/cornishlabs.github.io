@@ -79,9 +79,15 @@
   title: Laser cooling systems for Ytterbium
 
 - path: csybpic/glass_cell_oct_2023.jpg
-  caption: In autumn 2023 work is well underway to upgrade the experimental apparatus, incorporating the glass cell in the centre of this image. 
+  caption: In autumn 2023, the CsYb apparatus was being upgraded to incorporate the glass cell shown in the centre of this image.
   title: Experimental upgrade
 
 - path: csybpic/CsYb_team_Oct_2023.jpg
   caption: "The CsYb experiment team in October 2023. L-R: Joe (PhD student), Tobias (PDRA), Jack (PDRA), and Simon (PI)."
   title: The CsYb team
+- path: csybpic/CsYb_lab_setup.jpg
+  caption: "The CsYb experimental upgrade: Ultracold ytterbium atoms have been successfully transported into the glass cell from science chamber using a moving optical transport lattice."
+  title: "The CsYb experimental upgrade"
+  path: csybpic/Main_table.jpg
+  caption: "Aligning laser beams"
+  title: "The CsYb Main experiment"
