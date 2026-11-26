@@ -122,3 +122,14 @@ _A tour of the experimental apparatus:_
   {{publi.name}}: [_{{publi.thesis_title}}_ ({{publi.thesis_year}})]({{publi.thesis_link}})
   {% endif %}
 {% endfor %}
+
+<p> &nbsp; </p>
+#### Masters theses
+{% assign tweezer_masters = site.data.alumni_masters | where:"thesis_lab", "tweezers" %}
+{% assign masters_by_year = tweezer_masters | sort: "thesis_year" | reverse %}
+
+{% for publi in masters_by_year %}
+  {% if publi.thesis_link %}
+  {{publi.name | split: "," | first}}: [_{{publi.thesis_title}}_ ({{publi.thesis_year}})]({{publi.thesis_link}})
+  {% endif %}
+{% endfor %}

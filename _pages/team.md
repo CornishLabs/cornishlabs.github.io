@@ -185,7 +185,7 @@ permalink: /team
 <div class="col-sm-6 clearfix">
 <h4>Masters by Research students</h4>
 {% for member in site.data.alumni_masters %}
-{{ member.name }}
+{{ member.name }}{% if member.thesis_link %} ([thesis]({{ member.thesis_link }})){% endif %}
 {% endfor %}
 </div>
 

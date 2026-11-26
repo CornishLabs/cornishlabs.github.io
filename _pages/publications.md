@@ -79,3 +79,15 @@ permalink: /publications
   {{publi.name}}: [_{{publi.thesis_title}}_ ({{publi.thesis_year}})]({{publi.thesis_link}})
   {% endif %}
 {% endfor %}
+
+<p> &nbsp; </p>
+
+## Masters theses
+
+{% assign masters_by_year = site.data.alumni_masters | sort: "thesis_year" | reverse %}
+
+{% for publi in masters_by_year %}
+  {% if publi.thesis_link %}
+  {{publi.name | split: "," | first}}: [_{{publi.thesis_title}}_ ({{publi.thesis_year}})]({{publi.thesis_link}})
+  {% endif %}
+{% endfor %}
